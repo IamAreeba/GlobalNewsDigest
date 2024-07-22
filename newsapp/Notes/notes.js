@@ -9,3 +9,13 @@
     1. In class based we return it using the render function and in function we directly return 
 
 */
+
+// ========================================= 02 ========================================
+/*
+    <hr> should be replaced by <hr/> in JSX
+    same goes for class= to className= , tabindex= to tabIndex= , <a> to <Link />, href= to to= etc
+    render() is a lifecycle method means When react loads a component then some series of methods run.
+    You can remember them as he first compile HTML to JSX and then render that HTML
+
+*/
+
