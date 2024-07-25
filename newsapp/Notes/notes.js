@@ -21,7 +21,12 @@
 
 // ========================================= 03 ========================================
 /*
-    
+    We are using classes so we can make use of constructors
+    Constructors we have to call of parent class so we can use super() inside that
+    We use state when we want to change it dynamically. Here i dont want to making the title and description as state cuz i dont want to change them
+    Props are read only
+    We iterate through article using loop
+        
 
 */
 
